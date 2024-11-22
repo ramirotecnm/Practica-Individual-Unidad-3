@@ -1,0 +1,10 @@
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\bin\Debug\practica 2.exe.config
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\bin\Debug\practica 2.exe
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\bin\Debug\practica 2.pdb
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica 2.csproj.AssemblyReference.cache
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica_2.Form1.resources
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica_2.Properties.Resources.resources
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica 2.csproj.GenerateResource.cache
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica 2.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica 2.exe
+C:\Users\ameli\Desktop\practicas visual c\practica 2\practica 2\obj\Debug\practica 2.pdb

@@ -1,0 +1,20 @@
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\bin\Debug\practica 1.exe.config
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\bin\Debug\practica 1.exe
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\bin\Debug\practica 1.pdb
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica 1.csproj.AssemblyReference.cache
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica_1.Form1.resources
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica_1.Properties.Resources.resources
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica 1.csproj.GenerateResource.cache
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica 1.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica 1.exe
+C:\Users\ameli\Desktop\practicas visual c\practica 1\practica 1\obj\Debug\practica 1.pdb
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\bin\Debug\practica 1.exe.config
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\bin\Debug\practica 1.exe
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\bin\Debug\practica 1.pdb
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica 1.csproj.AssemblyReference.cache
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica_1.Form1.resources
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica_1.Properties.Resources.resources
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica 1.csproj.GenerateResource.cache
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica 1.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica 1.exe
+C:\Users\ameli\Desktop\PRACTICA-UNIDAD 3\practica 1\practica 1\obj\Debug\practica 1.pdb
